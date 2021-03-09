@@ -11,6 +11,15 @@ url = "https://mirrors.aliyun.com/pypi/simple/"
 
 [tool.poetry.dependencies]
 python = "^3.6"
+apscheduler = "3.2.0"
+werkzeug = "0.15.3"
+flask = "1.0"
+requests = "2.20.0"
+lxml = "4.6.2"
+pyexecjs = "1.5.1"
+click = "7.0"
+gunicorn = "19.9.0"
+redis = "^3.5.3"
 
 [tool.poetry.dev-dependencies]
 
